@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mymaterialsapp/static/css/main.ea34b5ad.css",
+    "main.js": "/mymaterialsapp/static/js/main.ec57373e.js",
+    "static/media/InterMedium.ttf": "/mymaterialsapp/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
+    "static/media/InterRegular.ttf": "/mymaterialsapp/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "index.html": "/mymaterialsapp/index.html",
+    "main.ea34b5ad.css.map": "/mymaterialsapp/static/css/main.ea34b5ad.css.map",
+    "main.ec57373e.js.map": "/mymaterialsapp/static/js/main.ec57373e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea34b5ad.css",
+    "static/js/main.ec57373e.js"
+  ]
+}
