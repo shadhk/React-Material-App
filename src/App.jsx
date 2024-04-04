@@ -1,13 +1,12 @@
-import React from "react";
-import Routes from "./Routes";
-import { BrowserRouter as Router } from "react-router-dom";
+import React from "react"
+import MyMaterialsPage from "pages/MyMaterials"
 
 function App() {
   return (
-    <Router>
-      <Routes />
-    </Router>
-  );
+    <div>
+      <MyMaterialsPage />
+    </div>
+  )
 }
 
-export default App;
+export default App
