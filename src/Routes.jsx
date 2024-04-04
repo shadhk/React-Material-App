@@ -6,7 +6,7 @@ import MyMaterials from "pages/MyMaterials"
 const ProjectRoutes = () => {
   let element = useRoutes([
     { path: "/", element: <MyMaterials /> },
-    { path: "*", element: <NotFound /> }
+    { path: "/notfound", element: <NotFound /> }
   ])
 
   return element
